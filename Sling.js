@@ -7,7 +7,7 @@ class Sling
             bodyA : bodyA,
             pointB : pointB,
             stiffness : 1,
-            angulartiffness : 1,
+            angularstiffness : 1,
             length : 220,
         };
         this.pointB = pointB;
